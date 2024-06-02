@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\nbd_lab_9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\nbd_lab_9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|c:\\users\\danbu\\desktop\\nbd - asp.net mvc\\nbd_lab_9\\nbd_lab_9\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96A68435-46D3-4DAC-9D75-52DECC194792}|NBD_Lab_9\\NBD_Lab_9.csproj|solutionrelative:nbd_lab_9\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Controllers\\BookController.cs",
+              "RelativeToolTip": "NBD_Lab_9\\Controllers\\BookController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:01:19.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "NBD_Lab_9\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:30:27.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Models\\Book.cs",
+              "RelativeToolTip": "NBD_Lab_9\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:22:02.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Views\\Book\\Add.cshtml",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\Views\\Book\\Add.cshtml",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Views\\Book\\Add.cshtml",
+              "RelativeToolTip": "NBD_Lab_9\\Views\\Book\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:51:51.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NBD_Lab_9\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:01:01.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NBD_Lab_9\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:22:45.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NBD_Lab_9\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:29:35.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Program.cs",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\Program.cs",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Program.cs",
+              "RelativeToolTip": "NBD_Lab_9\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:08:12.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Views\\Book\\Update.cshtml",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\Views\\Book\\Update.cshtml",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Views\\Book\\Update.cshtml",
+              "RelativeToolTip": "NBD_Lab_9\\Views\\Book\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T18:55:49.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\appsettings.json",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\appsettings.json",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\appsettings.json",
+              "RelativeToolTip": "NBD_Lab_9\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T16:54:08.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\appsettings.Development.json",
+              "RelativeToolTip": "NBD_Lab_9\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T16:54:26.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "NBD_Lab_9\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:22:42.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "NBD_Lab_9\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:23:27.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NBD_Lab_9",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\NBD_Lab_9.csproj",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\NBD_Lab_9.csproj",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\NBD_Lab_9.csproj",
+              "RelativeToolTip": "NBD_Lab_9\\NBD_Lab_9.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T16:56:47.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NBD_Lab_9\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\danbu\\Desktop\\NBD - ASP.NET MVC\\NBD_Lab_9\\NBD_Lab_9\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NBD_Lab_9\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T16:54:23.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

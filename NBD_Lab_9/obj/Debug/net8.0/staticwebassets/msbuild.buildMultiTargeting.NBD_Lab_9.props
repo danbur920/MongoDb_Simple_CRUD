@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NBD_Lab_9.props" />
+</Project>
